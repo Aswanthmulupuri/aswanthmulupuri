@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge][![Linkedin Badge](https://img.shields.io/badge/-Aswanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saiaswanth/)](https://www.linkedin.com/in/saiaswanth/)
+[![Linkedin Badge](https://img.shields.io/badge/-Aswanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saiaswanth/)](https://www.linkedin.com/in/saiaswanth/)
 
 
 I'm working as a 
