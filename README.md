@@ -5,7 +5,7 @@
 
 I'm working as a 
 Computer Vision Engineer
-I have been working on multiple technologies in the field of AI and self driving cars. I am passionate about learning the modern technologies, specially deep learning/computer vision also these days i am very inclined towards web development. 
+I have been working on multiple technologies in the field of AI and self driving cars. I am passionate about learning the modern technologies, specially deep learning/computer vision also these days i am very inclined towards Full stack development. 
 
 
 
