@@ -1,11 +1,11 @@
-### Hi Developers 👋
+### Hello 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Aswanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saiaswanth/)](https://www.linkedin.com/in/saiaswanth/)
 
 
 I'm  
-Computer Vision Engineer
-I have been working on multiple technologies and tools in the field of AI and self driving tractor. I am passionate and eger about learning the advanced technologies specially in the field of deep learning. Also, I have a wide range of skills in the Full Stack Development(HTML5, CSS, Bootstrap, Javascript, ReactJS, MongoDB, Express.JS, NodeJS).
+Automation Engineer 
+I have been working on multiple technologies and tools in the field of AI and self driving vehicles. I am passionate and eger about learning the advanced technologies specially in the field of deep learning. Also, I have a wide range of skills in the Full Stack Development(HTML5, CSS, Bootstrap, Javascript, ReactJS, MongoDB, Express.JS, NodeJS).
 
 
 Languages and Tools:
